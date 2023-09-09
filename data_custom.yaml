@@ -1,0 +1,6 @@
+train : C:\Users\Lenovo\Downloads\cars opject detection\car_dataset-master\train
+val : C:\Users\Lenovo\Downloads\cars opject detection\car_dataset-master\test
+
+nc: 1
+
+names : ["car"]
